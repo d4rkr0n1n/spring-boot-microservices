@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "config.value",
+  "type": "java.lang.String",
+  "description": "A description for 'config.value'"
+}]}
